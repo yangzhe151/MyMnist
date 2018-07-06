@@ -12,7 +12,7 @@ mnist = read_data_sets('MNIST_data/', one_hot=True)
 
 x = tf.placeholder([None, 784], dtype = 'tf.float32')
 y = tf.placeholder([None, 10], dtype = 'tf.float32')
-print '1212'
+print '1212d'
 #######################################################
 
 def Inference():
