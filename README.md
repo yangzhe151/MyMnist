@@ -1,6 +1,6 @@
 # MyMnist
 this is my first repository for tensorflow
-
+00 这是
 1.1 singe perceptron
 
 1.2 full conntected model
