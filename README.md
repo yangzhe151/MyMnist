@@ -2,7 +2,8 @@
 this is my first repository for tensorflow
 
 00 这是第一次修改
-02 这是第二次修改
+
+01 这是第二次修改
 
 1.1 singe perceptron
 
